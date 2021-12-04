@@ -1,0 +1,63 @@
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\Sublime Text 10.exe.config
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\Sublime Text 10.exe
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\Sublime Text 10.pdb
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXBarcode.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXBarcode.Windows.Forms.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXDrawing.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXDrawing.Windows.Forms.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXImageProvider.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.Server.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.Windows.Forms.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXBarcode.xml
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXBarcode.Windows.Forms.xml
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXDrawing.xml
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXDrawing.Windows.Forms.xml
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.xml
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.Server.xml
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.Windows.Forms.xml
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\de\TXBarcode.resources.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\de\TXDrawing.resources.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\bin\Debug\de\TXTextControl.resources.dll
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime_Text_10.Form1.resources
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime_Text_10.Properties.Resources.resources
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.exe.licenses
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.csproj.CopyComplete
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.exe
+C:\Users\user\Desktop\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.pdb
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\Sublime Text 10.exe.config
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\Sublime Text 10.exe
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\Sublime Text 10.pdb
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\FastColoredTextBox.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXBarcode.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXBarcode.Windows.Forms.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXDrawing.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXDrawing.Windows.Forms.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXImageProvider.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.Server.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.Windows.Forms.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\FastColoredTextBox.xml
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXBarcode.xml
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXBarcode.Windows.Forms.xml
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXDrawing.xml
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXDrawing.Windows.Forms.xml
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.xml
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.Server.xml
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\TXTextControl.Windows.Forms.xml
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\de\TXBarcode.resources.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\de\TXDrawing.resources.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\de\TXTextControl.resources.dll
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime_Text_10.Form1.resources
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime_Text_10.Properties.Resources.resources
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.exe.licenses
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.csproj.CopyComplete
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.exe
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\obj\Debug\Sublime Text 10.pdb
+C:\Users\user\Desktop\Projects\Sublime Text 10\Sublime Text 10\bin\Debug\AutocompleteMenu.dll
